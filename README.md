@@ -45,6 +45,7 @@ The project was implemented with *Python 3.9.2* and runs on *Jupyter Notebook*. 
 * [*spotipy*](https://spotipy.readthedocs.io/en/2.19.0/) *(version used: 2.19.0)*
 * [*matplotlib*](https://matplotlib.org/) *(version used: 3.3.4)*
 * [*seaborn*](https://seaborn.pydata.org/) *(version used: 0.11.2)*
+* [*librosa*](https://librosa.org/doc/latest/index.html) *(version used: 0.9.0)*
 * [*statsmodels*](https://www.statsmodels.org/stable/index.html) *(version used: 0.13.1)*
 * [*scikit-learn*](https://scikit-learn.org/stable/) *(version used: 0.24.1)*
 * [*XGBoost*](https://xgboost.readthedocs.io/en/stable/) *(version used: 1.5.1)*
