@@ -18,10 +18,10 @@ In the analysis notebook the main questions that are attempted to be answered ar
 1. Explore which features (track or audio) influence the *valence*, with the use of inferential statistics.
 2. Predict the *valence*, with the use of both non-connectivist machine learning methods and neural network methods.
 
-Inferential statistic methods used:
+Inferential Statistic methods used:
 * Linear Regression.
 
-Non-connectivist ML methods used:
+Non-Connectivist ML methods used:
 * SGD Regressor.
 * KNeighbors Regressor.
 * Random Forest Regressor.
