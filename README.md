@@ -18,6 +18,9 @@ In the analysis notebook the main questions that are attempted to be answered ar
 1. Explore which features (track or audio) influence the *valence*, with the use of inferential statistics.
 2. Predict the *valence*, with the use of both non-connectivist machine learning methods and neural network methods.
 
+Inferential statistic methods used:
+* Linear Regression.
+
 Non-connectivist ML methods used:
 * SGD Regressor.
 * KNeighbors Regressor.
@@ -31,7 +34,7 @@ Neural Network methods used:
 * Convolutional Neural Network.
 
 ## Data
-The dataset was created with the help of the [Spotify's Web API](https://developer.spotify.com/documentation/web-api/reference/#/) and contains information for both the track and audio features of song. *(More information in the `data_collection.ipynb` notebook)*.
+The dataset was created with the help of the [Spotify's Web API](https://developer.spotify.com/documentation/web-api/reference/#/) and contains information for both the track and the audio features of song. *(More information in the `data_collection.ipynb` notebook)*.
 
 Also, the list of the tracks' ids that were used in the API, was obtained from a dataset on *Kaggle* and can be found [here](https://www.kaggle.com/ektanegi/spotifydata-19212020).
 
